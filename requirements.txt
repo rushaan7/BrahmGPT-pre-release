@@ -1,0 +1,8 @@
+torch>=2.0.0  # Use PyTorch for GPU support
+transformers>=4.36.0  # Hugging Face Transformers library
+gradio>=4.0.0  # For creating the Gradio interface
+wikipedia-api>=0.6.0  # Fetching domain-specific data from Wikipedia
+requests>=2.31.0  # HTTP requests for SERP API
+beautifulsoup4>=4.12.2  # HTML parsing (required by Wikipedia library)
+wandb>=0.15.20  # Experiment tracking with Weights & Biases
+Wikipedia
